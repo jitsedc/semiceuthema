@@ -4,7 +4,7 @@
   "type": "ap",
   "eap": "CCCEV.eap",
   "diagram": "CCCEV_final",
-  "template": "cccev_en.j2",
+  "template": "cccev-ap_en.j2",
   "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)",
   "publication-state": "Working Draft",
   "publication-date": "2021-03-08",
@@ -14,21 +14,27 @@
   "site": "site-skeleton/cccev",
   "feedbackurl": "https://github.com/SEMICeu/CCCEV/issues",
   "standaardregisterurl": "TODO",
-  "translation": [
+    "translation": [
       {
         "language":"en",
-        "template":"cccev_en.j2",
-        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)"
+        "template":"cccev-ap_en.j2",
+        "title": "Core Criterion and Core Evidence Vocabulary",
+        "translationjson":"cccev-ap_en.json",
+        "mergefile":"cccev-ap_en_merged.jsonld"
       },
       {
         "language":"de",
-        "template":"cccev_de.j2",
-        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)"
+        "template":"cccev-ap_de.j2",
+        "title": "TODO Core Criterion and Core Evidence Vocabulary",
+        "translationjson":"cccev-ap_de.json",
+        "mergefile":"cccev-ap_de_merged.jsonld"
       },
       {
         "language":"nl",
-        "template":"cccev_nl.j2",
-        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)"
+        "template":"cccev-ap_nl.j2",
+        "title": "TODO Core Criterion and Core Evidence Vocabulary",
+        "translationjson":"cccev-ap_nl.json",
+        "mergefile":"cccev-ap_nl_merged.jsonld"
       }
     ]
 }
