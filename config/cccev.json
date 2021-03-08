@@ -22,7 +22,12 @@
       },
       {
         "language":"de",
-        "template":"cccev_en.j2",
+        "template":"cccev_de.j2",
+        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)"
+      },
+      {
+        "language":"nl",
+        "template":"cccev_nl.j2",
         "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)"
       }
     ]
