@@ -1,0 +1,18 @@
+[
+{
+  "name": "CCCEV",
+  "type": "ap",
+  "eap": "CCCEV.eap",
+  "diagram": "CCCEV_final",
+  "template": "cccev.j2",
+  "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-03-08",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "CCCEV",
+  "site": "site-skeleton/cccev",
+  "feedbackurl": "https://github.com/SEMICeu/CCCEV/issues",
+  "standaardregisterurl": "TODO"
+}
+]

@@ -1,4 +1,7 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;CCCEV;
+Pavlina;Fragkou;SEMIC;;;A;
+Seth;van Hooland;SEMIC;;;A;
+Bert;Van Nuffelen;TenForce;;;E;
+Dimitri;Schepers;PWC;;;E;
+Michiel;De Keyzer;PwC;;;E;
+Florian;Barthelemy;PWC;;;C;
