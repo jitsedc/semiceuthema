@@ -28,13 +28,6 @@
         "title": "TODO Core Criterion and Core Evidence Vocabulary",
         "translationjson":"cccev_de.json",
         "mergefile":"cccev_de_merged.jsonld"
-      },
-      {
-        "language":"nl",
-        "template":"cccev_nl.j2",
-        "title": "TODO Core Criterion and Core Evidence Vocabulary",
-        "translationjson":"cccev_nl.json",
-        "mergefile":"cccev_nl_merged.jsonld"
       }
     ]
 }
