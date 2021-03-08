@@ -13,6 +13,29 @@
   "contributors-column": "CCCEV",
   "site": "site-skeleton/cccev",
   "feedbackurl": "https://github.com/SEMICeu/CCCEV/issues",
-  "standaardregisterurl": "TODO"
+  "standaardregisterurl": "TODO",
+  "translation": [
+      {
+        "language":"en",
+        "template":"cccev-ap_en.j2",
+        "title": "Core Criterion and Core Evidence Vocabulary",
+        "translationjson":"cccev-ap_en.json",
+        "mergefile":"cccev-ap_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"cccev-ap_de.j2",
+        "title": "TODO Core Criterion and Core Evidence Vocabulary",
+        "translationjson":"cccev-ap_de.json",
+        "mergefile":"cccev-ap_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"cccev-ap_nl.j2",
+        "title": "TODO Core Criterion and Core Evidence Vocabulary",
+        "translationjson":"cccev-ap_nl.json",
+        "mergefile":"cccev-ap_nl_merged.jsonld"
+      }
+    ]
 }
 ]
