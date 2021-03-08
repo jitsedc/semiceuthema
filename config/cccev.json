@@ -1,10 +1,10 @@
 [
 {
-  "name": "cccev",
+  "name": "cccev-ap",
   "type": "ap",
   "eap": "CCCEV.eap",
   "diagram": "CCCEV_final",
-  "template": "cccev.j2",
+  "template": "cccev_en.j2",
   "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)",
   "publication-state": "Working Draft",
   "publication-date": "2021-03-08",
@@ -18,9 +18,12 @@
       {
         "language":"en",
         "template":"cccev_en.j2",
-        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)",
-        "translationjson":"cccev_en.json",
-        "mergefile":"cccev_en_merged.jsonld"
+        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)"
+      },
+      {
+        "language":"de",
+        "template":"cccev_en.j2",
+        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)"
       }
     ]
 }
