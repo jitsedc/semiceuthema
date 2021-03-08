@@ -18,16 +18,9 @@
       {
         "language":"en",
         "template":"cccev_en.j2",
-        "title": "Core Criterion and Core Evidence Vocabulary",
+        "title": "Core Criterion and Core Evidence Vocabulary (CCCEV)",
         "translationjson":"cccev_en.json",
         "mergefile":"cccev_en_merged.jsonld"
-      },
-      {
-        "language":"de",
-        "template":"cccev_de.j2",
-        "title": "TODO Core Criterion and Core Evidence Vocabulary",
-        "translationjson":"cccev_de.json",
-        "mergefile":"cccev_de_merged.jsonld"
       }
     ]
 }
