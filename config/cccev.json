@@ -12,6 +12,8 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "CCCEV",
   "site": "site-skeleton/cccev",
+  "repourl": "https://github.com/SEMICeu/CCCEV/tree/master/releases/2.00",
+  "versionurl": "https://semiceu.github.io/CCCEV/releases/2.00",
   "feedbackurl": "https://github.com/SEMICeu/CCCEV/issues",
   "standaardregisterurl": "TODO",
     "translation": [
