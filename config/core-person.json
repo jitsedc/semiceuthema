@@ -1,0 +1,43 @@
+[
+{
+  "name": "person-ap",
+  "type": "ap",
+  "eap": "CoreVocabularies.eap",
+  "diagram": "Core_Person",
+  "template": "core-person-ap_en.j2",
+  "title": "Core Person Vocabulary",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-03-23",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "CoreVoc",
+  "site": "site-skeleton/core-person",
+  "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.00",
+  "versionurl": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00",
+  "feedbackurl": "https://github.com/SEMICeu/Core-Person-Vocabulary/issues",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"core-person-ap_en.j2",
+        "title": "Core Person Vocabulary",
+        "translationjson":"core-person-ap_en.json",
+        "mergefile":"core-person-ap_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"core-person-ap_de.j2",
+        "title": "TODO Core Person Vocabulary",
+        "translationjson":"core-person-ap_de.json",
+        "mergefile":"core-person-ap_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"core-person-ap_nl.j2",
+        "title": "TODO Core Persoon Vocabularium",
+        "translationjson":"core-person-ap_nl.json",
+        "mergefile":"core-person-ap_nl_merged.jsonld"
+      }
+    ]
+}
+]
