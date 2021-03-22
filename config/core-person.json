@@ -1,6 +1,6 @@
 [
 {
-  "name": "person-ap",
+  "name": "core-person-ap",
   "type": "ap",
   "eap": "CoreVocabularies.eap",
   "diagram": "Core_Person",
