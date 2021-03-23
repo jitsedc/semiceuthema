@@ -1,0 +1,43 @@
+[
+{
+  "name": "core-public-organisation-ap",
+  "type": "ap",
+  "eap": "CoreVocabularies.EAP",
+  "diagram": "Core_Public_Organisation",
+  "template": "core-public-organisation-ap_en.j2",
+  "title": "Core Public Organisation Vocabulary",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-03-23",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "CoreVoc",
+  "site": "site-skeleton/core-public-organisation",
+  "repourl": "https://github.com/SEMICeu/CPOV/tree/master/releases/2.00",
+  "versionurl": "https://semiceu.github.io/CPOV/releases/2.00",
+  "feedbackurl": "https://github.com/SEMICeu/CPOV/issues",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"core-public-organisation-ap_en.j2",
+        "title": "Core Public Organisation Vocabulary",
+        "translationjson":"core-public-organisation-ap_en.json",
+        "mergefile":"core-public-organisation-ap_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"core-public-organisation-ap_de.j2",
+        "title": "TODO Core Public Organisation Vocabulary",
+        "translationjson":"core-public-organisation-ap_de.json",
+        "mergefile":"core-public-organisation-ap_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"core-public-organisation-ap_nl.j2",
+        "title": "TODO Core Public Organisation Vocabularium",
+        "translationjson":"core-public-organisation-ap_nl.json",
+        "mergefile":"core-public-organisation-ap_nl_merged.jsonld"
+      }
+    ]
+}
+]
