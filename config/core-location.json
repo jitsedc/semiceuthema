@@ -1,42 +1,42 @@
 [
 {
-  "name": "core-person-ap",
+  "name": "core-location-ap",
   "type": "ap",
   "eap": "CoreVocabularies.EAP",
-  "diagram": "Core_Person",
-  "template": "core-person-ap_en.j2",
-  "title": "Core Person Vocabulary",
+  "diagram": "Core_Location",
+  "template": "core-location-ap_en.j2",
+  "title": "Core Location Vocabulary",
   "publication-state": "Working Draft",
   "publication-date": "2021-03-23",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "CoreVoc",
-  "site": "site-skeleton/core-person",
-  "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.00",
-  "versionurl": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00",
-  "feedbackurl": "https://github.com/SEMICeu/Core-Person-Vocabulary/issues",
+  "site": "site-skeleton/core-location",
+  "repourl": "https://github.com/SEMICeu/Core-Location-Vocabulary/tree/master/releases/2.00",
+  "versionurl": "https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00",
+  "feedbackurl": "https://github.com/SEMICeu/Core-Location-Vocabulary/issues",
   "standaardregisterurl": "TODO",
     "translation": [
       {
         "language":"en",
-        "template":"core-person-ap_en.j2",
-        "title": "Core Person Vocabulary",
-        "translationjson":"core-person-ap_en.json",
-        "mergefile":"core-person-ap_en_merged.jsonld"
+        "template":"core-location-ap_en.j2",
+        "title": "Core Location Vocabulary",
+        "translationjson":"core-location-ap_en.json",
+        "mergefile":"core-location-ap_en_merged.jsonld"
       },
       {
         "language":"de",
-        "template":"core-person-ap_de.j2",
-        "title": "TODO Core Person Vocabulary",
-        "translationjson":"core-person-ap_de.json",
-        "mergefile":"core-person-ap_de_merged.jsonld"
+        "template":"core-location-ap_de.j2",
+        "title": "TODO Core Location Vocabulary",
+        "translationjson":"core-location-ap_de.json",
+        "mergefile":"core-location-ap_de_merged.jsonld"
       },
       {
         "language":"nl",
-        "template":"core-person-ap_nl.j2",
-        "title": "TODO Core Persoon Vocabularium",
-        "translationjson":"core-person-ap_nl.json",
-        "mergefile":"core-person-ap_nl_merged.jsonld"
+        "template":"core-location-ap_nl.j2",
+        "title": "TODO Core Location Vocabularium",
+        "translationjson":"core-location-ap_nl.json",
+        "mergefile":"core-location-ap_nl_merged.jsonld"
       }
     ]
 }
