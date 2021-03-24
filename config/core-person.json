@@ -15,7 +15,7 @@
   "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.00",
   "versionurl": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00",
   "feedbackurl": "https://github.com/SEMICeu/Core-Person-Vocabulary/issues",
-  "standaardregisterurl": "TODO",
+  "standaardregisterurl": "Core-Person-Vocabulary",
     "translation": [
       {
         "language":"en",
