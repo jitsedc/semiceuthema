@@ -1,8 +1,8 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;CCCEV;CoreVoc;
-Core Vocabularies Working Group;;;;;A;A;
-Pavlina;Fragkou;European Commission;;;E;E;
-Seth;van Hooland;European Commission;;;C;C;
-Bert;Van Nuffelen;TenForce;;;E;E;
-Dimitri;Schepers;PwC;;;E;E;
-Michiel;De Keyzer;PwC;;;E;E;
-Florian;Barthelemy;PwC;;;E;E;
+Voornaam;Naam;Affiliatie;E-mail;Website;CCCEV;CoreVoc;CPSV-AP;
+Core Vocabularies Working Group;;;;;A;A;A;
+Pavlina;Fragkou;European Commission;;;E;E;E;
+Seth;van Hooland;European Commission;;;C;C;C;
+Bert;Van Nuffelen;TenForce;;;E;E;E;
+Dimitri;Schepers;PwC;;;E;E;E;
+Michiel;De Keyzer;PwC;;;E;E;E;
+Florian;Barthelemy;PwC;;;E;E;E;
