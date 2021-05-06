@@ -2,7 +2,7 @@
 {
   "name": "sdg",
   "type": "ap",
-  "eap": "sdg.eap",
+  "eap": "SDG.eap",
   "diagram": "SDG",
   "template": "sdg_en.j2",
   "title": "SDG services model",
