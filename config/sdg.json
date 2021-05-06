@@ -1,0 +1,43 @@
+[
+{
+  "name": "sdg",
+  "type": "ap",
+  "eap": "sdg.eap",
+  "diagram": "SDG",
+  "template": "sdg_en.j2",
+  "title": "SDG services model",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-05-06",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "SDG",
+  "site": "site-skeleton/sdg",
+  "repourl": "https://github.com/catalogue-of-services-isa/SDG-services-model",
+  "versionurl": "https://github.com/catalogue-of-services-isa/SDG-services-model/tree/master/releases/0.01",
+  "feedbackurl": "https://github.com/catalogue-of-services-isa/SDG-services-model/issues",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"sdg_en.j2",
+        "title": "SDG services model",
+        "translationjson":"sdg_en.json",
+        "mergefile":"sdg_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"sdg_de.j2",
+        "title": "TODO SDG services model",
+        "translationjson":"sdg_de.json",
+        "mergefile":"sdg_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"sdg_nl.j2",
+        "title": "TODO SDG services model",
+        "translationjson":"sdg_nl.json",
+        "mergefile":"sdg_nl_merged.jsonld"
+      }
+    ]
+}
+]
