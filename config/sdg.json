@@ -20,7 +20,7 @@
       {
         "language":"en",
         "template":"sdg_en.j2",
-        "title": "SDG services model",
+        "title": "SDG search service model",
         "translationjson":"sdg_en.json",
         "mergefile":"sdg_en_merged.jsonld"
       },
