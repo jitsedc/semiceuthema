@@ -7,7 +7,7 @@
   "template": "sdg_en.j2",
   "title": "SDG search service model",
   "publication-state": "Working Draft",
-  "publication-date": "2021-05-26",
+  "publication-date": "2021-05-28",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "SDG",
