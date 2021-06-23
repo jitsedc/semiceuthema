@@ -4,7 +4,7 @@
   "type": "ap",
   "eap": "CPSV-AP.eap",
   "diagram": "CPSV-AP",
-  "template": "cpsv-ap.j2",
+  "template": "cpsv-ap_en.j2",
   "title": "Core Public Service Vocabulary Application Profile (CPSV-AP)",
   "publication-state": "Working Draft",
   "publication-date": "2021-04-27",
