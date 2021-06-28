@@ -1,11 +1,11 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;CCCEV;CoreVoc;CPSV-AP;SDG;
 Core Vocabularies Working Group;;;;;A;A;A;;
-Pavlina;Fragkou;European Commission;;;E;E;E;;
-Seth;van Hooland;European Commission;;;C;C;C;;
-Bert;Van Nuffelen;TenForce;;;E;E;E;;
+Pavlina;Fragkou;European Commission;;;E;E;;;
+Seth;van Hooland;European Commission;;;C;C;;;
+Bert;Van Nuffelen;TenForce;;;E;E;;;
 Dimitri;Schepers;PwC;;;E;E;E;;
-Miguel;Alvarez Rodriguez;European Commission;;;;;;E;
+Miguel;Alvarez Rodriguez;European Commission;;;;;E;E;
 Michiel;De Keyzer;PwC EU Services;;;E;E;E;E;
 Florian;Barthelemy;PwC EU Services;;;E;E;E;E;
 Maxime;Pittomvils;PwC EU Services;;;;;;E;
-Alexandre;Beaufays;PwC EU Services;;;E;;;;
+Alexandre;Beaufays;PwC EU Services;;;;E;E;;
