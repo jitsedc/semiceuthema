@@ -5,7 +5,7 @@
   "eap": "CoreVocabularies.EAP",
   "diagram": "Core_Public_Organisation",
   "template": "core-public-organisation-ap_en.j2",
-  "title": "Core Public Organization Vocabulary",
+  "title": "Core Public Organisation Vocabulary",
   "publication-state": "Working Draft",
   "publication-date": "2021-04-01",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
