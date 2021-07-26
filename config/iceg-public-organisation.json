@@ -1,6 +1,6 @@
 [
 {
-  "name": "ICEG Public Organisation",
+  "name": "iceg-public-organisation",
   "type": "ap",
   "eap": "ICEG_Public_Organisation_v.1.2.eap",
   "diagram": "ICEG_Public_Organisation",
