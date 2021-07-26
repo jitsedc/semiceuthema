@@ -1,0 +1,43 @@
+[
+{
+  "name": "ICEG Public Organisation",
+  "type": "ap",
+  "eap": "ICEG_Public_Organisation_v.1.2.eap",
+  "diagram": "ICEG_Public_Organisation",
+  "template": "iceg-public-organisation_en.j2",
+  "title": "Public Organisation",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-07-26",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "iceg_public_organisation",
+  "site": "site-skeleton/iceg-public-organisation",
+  "repourl": "TBD",
+  "versionurl": "TBD",
+  "feedbackurl": "TBD",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"iceg_public_organisation_en.j2",
+        "title": "Public Organisation",
+        "translationjson":"iceg_public_organisation_en.json",
+        "mergefile":"iceg_public_organisation_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"iceg_public_organisation_de.j2",
+        "title": "TODO iceg public organisation",
+        "translationjson":"iceg_public_organisation_de.json",
+        "mergefile":"iceg_public_organisation_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"iceg_public_organisation_nl.j2",
+        "title": "TODO iceg public organisation",
+        "translationjson":"iceg_public_organisation_nl.json",
+        "mergefile":"iceg_public_organisation_nl_merged.jsonld"
+      }
+    ]
+}
+]
