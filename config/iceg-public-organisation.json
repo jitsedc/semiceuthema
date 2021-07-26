@@ -23,20 +23,6 @@
         "title": "Public Organisation",
         "translationjson":"iceg-public-organisation_en.json",
         "mergefile":"iceg-public-organisation_en_merged.jsonld"
-      },
-      {
-        "language":"de",
-        "template":"iceg-public-organisation_de.j2",
-        "title": "TODO public organisation",
-        "translationjson":"iceg-public-organisation_de.json",
-        "mergefile":"iceg-public-organisation_de_merged.jsonld"
-      },
-      {
-        "language":"nl",
-        "template":"iceg-public-organisation_nl.j2",
-        "title": "TODO public organisation",
-        "translationjson":"iceg-public-organisation_nl.json",
-        "mergefile":"iceg-public-organisation_nl_merged.jsonld"
       }
     ]
 }
