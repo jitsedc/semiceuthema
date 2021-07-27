@@ -1,0 +1,43 @@
+[
+{
+  "name": "iceg-public-service",
+  "type": "ap",
+  "eap": "ICEG_Public_Services_v.1.5.eap",
+  "diagram": "Public Services",
+  "template": "iceg-public-service_en.j2",
+  "title": "Public Service",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-07-26",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "ICEG-PO",
+  "site": "site-skeleton/iceg-public-service",
+  "repourl": "TBD",
+  "versionurl": "TBD",
+  "feedbackurl": "TBD",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"iceg-public-service_en.j2",
+        "title": "Public service",
+        "translationjson":"iceg-public-service_en.json",
+        "mergefile":"iceg-public-service_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"iceg-public-service_de.j2",
+        "title": "TODO public service",
+        "translationjson":"iceg-public-service_de.json",
+        "mergefile":"iceg-public-service_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"iceg-public-service_nl.j2",
+        "title": "TODO public service",
+        "translationjson":"iceg-public-service_nl.json",
+        "mergefile":"iceg-public-service_nl_merged.jsonld"
+      }
+    ]
+}
+]
