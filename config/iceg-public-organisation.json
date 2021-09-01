@@ -3,7 +3,7 @@
   "name": "iceg-public-organisation",
   "type": "ap",
   "eap": "ICEG_Public_Organization_v3.EAP",
-  "diagram": "Public Organisation",
+  "diagram": "Public_Organisation",
   "template": "iceg-public-organisation_en.j2",
   "title": "Public Organization",
   "publication-state": "Working Draft",
