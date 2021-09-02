@@ -2,7 +2,7 @@
 {
   "name": "iceg-public-organisation",
   "type": "ap",
-  "eap": "ICEG_Public_Organization_v.1.4.EAP",
+  "eap": "ICEG_Public_Organization_v6.EAP",
   "diagram": "Public Organisation",
   "template": "iceg-public-organisation_en.j2",
   "title": "Public Organization",
