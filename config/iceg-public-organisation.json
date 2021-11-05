@@ -7,7 +7,7 @@
   "template": "iceg-public-organisation_en.j2",
   "title": "Public Organization",
   "publication-state": "Working Draft",
-  "publication-date": "2021-09-17",
+  "publication-date": "2021-11-05",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "ICEG-PO",
@@ -20,21 +20,21 @@
       {
         "language":"en",
         "template":"iceg-public-organisation_en.j2",
-        "title": "Public Organisation",
+        "title": "Public Organization",
         "translationjson":"iceg-public-organisation_en.json",
         "mergefile":"iceg-public-organisation_en_merged.jsonld"
       },
       {
         "language":"de",
         "template":"iceg-public-organisation_de.j2",
-        "title": "TODO public organisation",
+        "title": "TODO public organization",
         "translationjson":"iceg-public-organisation_de.json",
         "mergefile":"iceg-public-organisation_de_merged.jsonld"
       },
       {
         "language":"nl",
         "template":"iceg-public-organisation_nl.j2",
-        "title": "TODO public organisation",
+        "title": "TODO public organization",
         "translationjson":"iceg-public-organisation_nl.json",
         "mergefile":"iceg-public-organisation_nl_merged.jsonld"
       }
