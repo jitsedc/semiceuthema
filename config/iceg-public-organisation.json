@@ -7,14 +7,14 @@
   "template": "iceg-public-organisation_en.j2",
   "title": "Public Organization",
   "publication-state": "Working Draft",
-  "publication-date": "2021-11-15",
+  "publication-date": "2021-12-01",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "ICEG-PO",
   "site": "site-skeleton/iceg-public-organisation",
   "repourl": "TBD",
-  "versionurl": "TBD",
-  "feedbackurl": "TBD",
+  "versionurl": "https://belgif.github.io/thematic/models/public%20organisation/index_en.html",
+  "feedbackurl": "https://github.com/belgif/thematic/issues",
   "standaardregisterurl": "TODO",
     "translation": [
       {
