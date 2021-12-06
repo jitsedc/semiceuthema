@@ -4,7 +4,7 @@
   "type": "voc",
   "eap": "ICEG_Public_Organization_v5.EAP",
   "diagram": "Public Organisation",
-  "template": "iceg-public-organisation_en.j2",
+  "template": "iceg-public-organisation-voc_en.j2",
   "title": "Public Organization",
   "publication-state": "Working Draft",
   "publication-date": "2021-12-01",
