@@ -19,21 +19,21 @@
     "translation": [
       {
         "language":"en",
-        "template":"iceg-public-organisation_en.j2",
+        "template":"iceg-public-organisation-voc_en.j2",
         "title": "Public Organization",
         "translationjson":"iceg-public-organisation_en.json",
         "mergefile":"iceg-public-organisation_en_merged.jsonld"
       },
       {
         "language":"de",
-        "template":"iceg-public-organisation_de.j2",
+        "template":"iceg-public-organisation-voc_de.j2",
         "title": "TODO public organization",
         "translationjson":"iceg-public-organisation_de.json",
         "mergefile":"iceg-public-organisation_de_merged.jsonld"
       },
       {
         "language":"nl",
-        "template":"iceg-public-organisation_nl.j2",
+        "template":"iceg-public-organisation-voc_nl.j2",
         "title": "TODO public organization",
         "translationjson":"iceg-public-organisation_nl.json",
         "mergefile":"iceg-public-organisation_nl_merged.jsonld"
