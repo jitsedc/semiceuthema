@@ -13,28 +13,28 @@
   "contributors-column": "ICEG-PO",
   "site": "site-skeleton/iceg-public-service",
   "repourl": "TBD",
-  "versionurl": "https://belgif.github.io/thematic/models/public%20services/index_en.html",
+  "versionurl": "https://belgif.github.io/thematic/models/public%20organisation/index_en.html",
   "feedbackurl": "https://github.com/belgif/thematic/issues",
   "standaardregisterurl": "TODO",
     "translation": [
       {
         "language":"en",
         "template":"iceg-public-service_en.j2",
-        "title": "Public service",
+        "title": "Public Service",
         "translationjson":"iceg-public-service_en.json",
         "mergefile":"iceg-public-service_en_merged.jsonld"
       },
       {
         "language":"de",
         "template":"iceg-public-service_de.j2",
-        "title": "TODO public service",
+        "title": "Public Service",
         "translationjson":"iceg-public-service_de.json",
         "mergefile":"iceg-public-service_de_merged.jsonld"
       },
       {
         "language":"nl",
         "template":"iceg-public-service_nl.j2",
-        "title": "TODO public service",
+        "title": "Public Service",
         "translationjson":"iceg-public-service_nl.json",
         "mergefile":"iceg-public-service_nl_merged.jsonld"
       }

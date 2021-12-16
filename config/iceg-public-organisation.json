@@ -27,14 +27,14 @@
       {
         "language":"de",
         "template":"iceg-public-organisation_de.j2",
-        "title": "TODO public organization",
+        "title": "Public Organization",
         "translationjson":"iceg-public-organisation_de.json",
         "mergefile":"iceg-public-organisation_de_merged.jsonld"
       },
       {
         "language":"nl",
         "template":"iceg-public-organisation_nl.j2",
-        "title": "TODO public organization",
+        "title": "Public Organization",
         "translationjson":"iceg-public-organisation_nl.json",
         "mergefile":"iceg-public-organisation_nl_merged.jsonld"
       }
