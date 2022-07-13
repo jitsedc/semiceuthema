@@ -1,0 +1,43 @@
+[
+{
+  "name": "iceg-building",
+  "type": "ap",
+  "eap": "ICEG-Building-Stable1.eap",
+  "diagram": "Building",
+  "template": "iceg-building_en.j2",
+  "title": "Building",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-12-22",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "ICEG-Building",
+  "site": "site-skeleton/iceg-building",
+  "repourl": "TBD",
+  "versionurl": "https://belgif.github.io/thematic/models/public%20organisation/index_en.html",
+  "feedbackurl": "https://github.com/belgif/thematic/issues",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"iceg-building_en.j2",
+        "title": "Building",
+        "translationjson":"iceg-building_en.json",
+        "mergefile":"iceg-building_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"iceg-building_de.j2",
+        "title": "Building",
+        "translationjson":"iceg-building_de.json",
+        "mergefile":"iceg-building_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"iceg-building_nl.j2",
+        "title": "Building",
+        "translationjson":"iceg-building_nl.json",
+        "mergefile":"iceg-building_nl_merged.jsonld"
+      }
+    ]
+}
+]
