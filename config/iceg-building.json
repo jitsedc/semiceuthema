@@ -2,7 +2,7 @@
 {
   "name": "iceg-building",
   "type": "ap",
-  "eap": "ICEG-Building-Stable10.eap",
+  "eap": "ICEG-Building-Stable11.eap",
   "diagram": "ICEG-Building_AP",
   "template": "iceg-building_en.j2",
   "title": "Building",
