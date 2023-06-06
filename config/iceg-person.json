@@ -27,14 +27,14 @@
 			{
 				"language": "fr",
 				"template": "iceg-building_fr.j2",
-				"title": "Person",
+				"title": "Personne",
 				"translationjson": "iceg-person_fr.json",
 				"mergefile": "iceg-person_fr_merged.jsonld"
 			},
 			{
 				"language": "nl",
 				"template": "iceg-person_nl.j2",
-				"title": "Person",
+				"title": "Persoon",
 				"translationjson": "iceg-person_nl.json",
 				"mergefile": "iceg-person_nl_merged.jsonld"
 			},
