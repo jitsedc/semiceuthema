@@ -33,7 +33,7 @@
 			},
 			{
 				"language": "nl",
-				"template": "iceg-building_nl.j2",
+				"template": "iceg-person_nl.j2",
 				"title": "Person",
 				"translationjson": "iceg-person_nl.json",
 				"mergefile": "iceg-person_nl_merged.jsonld"
