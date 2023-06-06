@@ -1,0 +1,50 @@
+[
+	{
+		"name": "iceg-person",
+		"type": "ap",
+		"eap": "ICEG-Person.eap",
+		"diagram": "OSLO-Persoon-Basis",
+		"template": "iceg-building_en.j2",
+		"title": "Person",
+		"publication-state": "Draft",
+		"publication-date": "2023-06-06",
+		"license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+		"contributors-file": "stakeholders.csv",
+		"contributors-column": "ICEG-Building",
+		"site": "site-skeleton/iceg-person",
+		"repourl": "https://github.com/belgif/thematic/tree/master/",
+		"versionurl": "https://belgif.github.io/thematic/models/building",
+		"feedbackurl": "https://github.com/belgif/thematic/issues",
+		"standaardregisterurl": "TODO",
+		"translation": [
+			{
+				"language": "en",
+				"template": "iceg-building_en.j2",
+				"title": "Person",
+				"translationjson": "iceg-person_en.json",
+				"mergefile": "iceg-person_en_merged.jsonld"
+			},
+			{
+				"language": "fr",
+				"template": "iceg-building_fr.j2",
+				"title": "Person",
+				"translationjson": "iceg-person_fr.json",
+				"mergefile": "iceg-person_fr_merged.jsonld"
+			},
+			{
+				"language": "nl",
+				"template": "iceg-building_nl.j2",
+				"title": "Person",
+				"translationjson": "iceg-person_nl.json",
+				"mergefile": "iceg-person_nl_merged.jsonld"
+			},
+			{
+				"language": "de",
+				"template": "iceg-building_de.j2",
+				"title": "Person",
+				"translationjson": "iceg-person_de.json",
+				"mergefile": "iceg-person_de_merged.jsonld"
+			}
+		]
+	}
+]
