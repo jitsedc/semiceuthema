@@ -41,7 +41,7 @@
 			{
 				"language": "de",
 				"template": "iceg-building_de.j2",
-				"title": "Person",
+				"title": "Person (D)",
 				"translationjson": "iceg-person_de.json",
 				"mergefile": "iceg-person_de_merged.jsonld"
 			}
