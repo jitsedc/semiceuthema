@@ -16,6 +16,35 @@
 		"versionurl": "https://belgif.github.io/thematic/models/building",
 		"feedbackurl": "https://github.com/belgif/thematic/issues",
 		"standaardregisterurl": "TODO",
-		"translation":[]
+		"translation":[
+					{
+				"language": "en",
+				"template": "iceg-person_en.j2",
+				"title": "Person",
+				"translationjson": "iceg-person_en.json",
+				"mergefile": "iceg-person_en_merged.jsonld"
+			},
+			{
+				"language": "fr",
+				"template": "iceg-building_fr.j2",
+				"title": "Personne",
+				"translationjson": "iceg-person_fr.json",
+				"mergefile": "iceg-person_fr_merged.jsonld"
+			},
+			{
+				"language": "nl",
+				"template": "iceg-person_nl.j2",
+				"title": "Persoon",
+				"translationjson": "iceg-person_nl.json",
+				"mergefile": "iceg-person_nl_merged.jsonld"
+			},
+			{
+				"language": "de",
+				"template": "iceg-person_de.j2",
+				"title": "Person (D)",
+				"translationjson": "iceg-person_de.json",
+				"mergefile": "iceg-person_de_merged.jsonld"
+			}
+		]
 	}
 ]
