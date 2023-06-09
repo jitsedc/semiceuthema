@@ -3,7 +3,7 @@
 		"name": "iceg-person",
 		"type": "ap",
 		"eap": "ICEG-Person.eap",
-		"diagram": "OSLO-Persoon-Basis",
+		"diagram": "ICEG-Person",
 		"template": "iceg-person_en.j2",
 		"title": "Person",
 		"publication-state": "Draft",
