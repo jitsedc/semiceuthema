@@ -15,6 +15,7 @@
 		"repourl": "https://github.com/belgif/thematic/tree/master/",
 		"versionurl": "https://belgif.github.io/thematic/models/building",
 		"feedbackurl": "https://github.com/belgif/thematic/issues",
-		"standaardregisterurl": "TODO"
+		"standaardregisterurl": "TODO",
+		"translation":[]
 	}
 ]
