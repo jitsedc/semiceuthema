@@ -52,7 +52,7 @@
 		"type": "voc",
 		"eap": "ICEG-Person.eap",
 		"diagram": "ICEG-Person",
-		"template": "iceg-person_en.j2",
+		"template": "iceg-person-voc_en.j2",
 		"title": "Person",
 		"publication-state": "Draft",
 		"publication-date": "2023-06-06",
