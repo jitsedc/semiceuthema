@@ -186,15 +186,15 @@
       "name": "Marriage",
       "label": {
         "en": "Marriage",
-        "nl": "Enter your translation here"
+        "nl": "Huwelijk"
       },
       "definition": {
         "en": "A form of cohabitation of two persons, organized by civil or religious law.",
-        "nl": "Enter your translation here"
+        "nl": "Een door burgerlijk of religieus recht geregelde samenlevingsvorm van twee personen."
       },
       "usage": {
         "en": "Can, just like living together, form the basis of a household.",
-        "nl": "Enter your translation here"
+        "nl": "Kan, net als bv samenwonen, de basis vormen van een gezin."
       }
     },
     {
@@ -202,31 +202,31 @@
       "name": "Nationality",
       "label": {
         "en": "Nationality",
-        "nl": "Enter your translation here"
+        "nl": "Nationaliteit"
       },
       "definition": {
         "en": "The relationship between a person and a state, culture or loyalty.",
-        "nl": "Enter your translation here"
+        "nl": "De relatie tussen een persoon en een staat, cultuur of loyaliteit."
       },
       "usage": {
         "en": "Note that this concept is broader than citizenship (which is limited to the relationship with a state). Anyone who has the nationality of a particular country is usually automatically a citizen. Nationality is usually obtained automatically by birth: one gets either the nationality of his parents or one gets it from the country where one is a resident. One can also obtain a certain nationality through naturalization. In principle, peoplethen lose their original nationality, but that is not always the case (multiple nationality).",
-        "nl": "Enter your translation here"
+        "nl": "Merk op dat dit begrip ruimer is dan staatsburgerschap (dat zich beperkt tot de relatie met een staat). Wie de nationaliteit ve bepaald land heeft is er doorgaans ook automatisch staatsburger van. Nationaliteit wordt doorgaans autamatisch verkregen door geboorte: men krijgt hetzij de nationaliteit van zijn ouders of men krijgt deze vh land waar men Inwoner van is. Men kan een bepaalde nationaliteit ook verkrijgen door naturalisatie. In principe verliest men dan zijn oorspronkelijke nationaliteit, maar dat is niet altijd zo (meervoudige nationaliteit)."
       }
     },
     {
       "EA-Guid": "{D3A66E70-D816-4637-95A5-14D7B52E56DB}",
-      "name": "Non resident",
+      "name": "GN resident",
       "label": {
         "en": "Non resident",
-        "nl": "Enter your translation here"
+        "nl": "geen inwoner"
       },
       "definition": {
         "en": "Person not residing in a certain place or country.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon die niet in een bepaalde plaats of land woont."
       },
       "usage": {
         "en": "Place or country is represented here by the jurisdiction entity.",
-        "nl": "Enter your translation here"
+        "nl": "Plaats of land wordt hier vertegenwoordigd door de entiteit jurisdictie."
       }
     },
     {
@@ -234,15 +234,15 @@
       "name": "Permant resident",
       "label": {
         "en": "Permant resident",
-        "nl": "Enter your translation here"
+        "nl": "Permanent Inwoner"
       },
       "definition": {
         "en": "Person who permanently resides in a particular place or country.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon die permanent in een bepaalde plaats of land woont."
       },
       "usage": {
         "en": "Is a right of residence that must in principle be officially granted if the person is not a citizen.",
-        "nl": "Enter your translation here"
+        "nl": "Is een verblijfsrecht dat in principe officieel moet worden toegekend als de persoon geen staatsburger is."
       }
     },
     {
@@ -250,11 +250,11 @@
       "name": "Personal event",
       "label": {
         "en": "Personal event",
-        "nl": "Enter your translation here"
+        "nl": "Persoonlijke gebeurtenis"
       },
       "definition": {
         "en": "Significant event in the life of a person.",
-        "nl": "Enter your translation here"
+        "nl": "Belangrijke gebeurtenis ih leven ve persoon."
       }
     },
     {
@@ -262,15 +262,15 @@
       "name": "Personal relation",
       "label": {
         "en": "Personal relation",
-        "nl": "Enter your translation here"
+        "nl": "Persoonsrelatie"
       },
       "definition": {
         "en": "Relation between two or more persons.",
-        "nl": "Enter your translation here"
+        "nl": "Relatie tussen twee of meer personen."
       },
       "usage": {
         "en": "Typically these are civil law relationships (see civil status) but not necessarily limited thereto.",
-        "nl": "Enter your translation here"
+        "nl": "Typisch zijn dit burgerrechtelijke relaties (zie burgerlijke staat) maar niet noodzakelijk daartoe beperkt."
       }
     },
     {
@@ -278,15 +278,15 @@
       "name": "Registered person",
       "label": {
         "en": "Registered person",
-        "nl": "Enter your translation here"
+        "nl": "Geregistreerd Persoon"
       },
       "definition": {
         "en": "Person whose details are officially listed in a register.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon waarvan de gegevens zijn ingeschreven in een register."
       },
       "usage": {
         "en": "This register is usually a population register, but it can also be an electoral register, for example. The registered data relates to the identity (e.g. surname and first name) and the place of residence of the person and to important life events such as birth, marriage, decease, etc. These data are typically registered by the government, they offer the registered person legal protection and they allow the government to compile basic statistics about its population.",
-        "nl": "Enter your translation here"
+        "nl": "Doorgaans is dit register een bevolkingsregister maar het kan bv ook een kiesregister zijn. De ingeschreven gegevens hebben betrekking op de identeit (vb naam en voornaam) en de Verblijfplaats vd persoon en op belangrijke levensgebeurtenissen zoals geboorte, huwelijk, overlijden etc. Deze gegevens worden typisch geregistreerd door de overheid, ze bieden de ingeschreven persoon wettelijke bescherming en laten de overheid toe om basisstatistieken op te stellen over zijn bevolking."
       }
     },
     {
@@ -294,11 +294,11 @@
       "name": "Residency",
       "label": {
         "en": "Residency",
-        "nl": "Enter your translation here"
+        "nl": "Inwonerschap"
       },
       "definition": {
         "en": "The fact that a person resides in a place or country.",
-        "nl": "Enter your translation here"
+        "nl": "Het feit dat een persoon verblijf houdt in een plaats of land."
       }
     },
     {
@@ -306,15 +306,15 @@
       "name": "Resident",
       "label": {
         "en": "Resident",
-        "nl": "Enter your translation here"
+        "nl": "Inwoner"
       },
       "definition": {
         "en": "Person who lives in a certain place or country.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon die in een bepaalde plaats of land woont."
       },
       "usage": {
         "en": "This place or country is represented here by the jurisdiction entity.",
-        "nl": "Enter your translation here"
+        "nl": "Plaats of land wordt hier vertegenwoordigd door de entiteit jurisdictie."
       }
     },
     {
@@ -322,15 +322,15 @@
       "name": "Temporary resident",
       "label": {
         "en": "Temporary resident",
-        "nl": "Enter your translation here"
+        "nl": "Tijdelijk inwoner"
       },
       "definition": {
         "en": "Person who temporarily lives in a place or country.",
-        "nl": "Enter your translation here"
+        "nl": "ersoon die tijdelijk in een plaats of land woont."
       },
       "usage": {
         "en": "Is a right of residence that is in principle only granted for very specific reasons, eg work or study. Does not apply to a short stay, eg as a tourist.",
-        "nl": "Enter your translation here"
+        "nl": "Is een verblijfsrecht dat in principe enkel wordt toegekend omwille ve zeer specifieke reden bv werken of studeren. Exclusief personen met kort verblijf, bv als toerist."
       }
     },
     {
@@ -338,11 +338,11 @@
       "name": "Residence",
       "label": {
         "en": "Residence",
-        "nl": "Enter your translation here"
+        "nl": "Verblijfplaats"
       },
       "definition": {
         "en": "Place where a Person lives or stays permanently or temporarily.",
-        "nl": "Enter your translation here"
+        "nl": "Plaats waar een Persoon al dan niet tijdelijk woont of logeert."
       }
     }
   ],
