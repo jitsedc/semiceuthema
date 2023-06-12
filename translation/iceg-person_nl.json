@@ -782,7 +782,7 @@
       "name": "Address representation",
       "label": {
         "en": "Address representation",
-        "nl": "adresvoorstelling"
+        "nl": "Adresvoorstelling"
       },
       "definition": {
         "en": "Readable representation of an address.",
