@@ -352,15 +352,15 @@
       "name": "type of household relation",
       "label": {
         "en": "type of household relation",
-        "nl": "Enter your translation here"
+        "nl": "gezinsrelatietype"
       },
       "definition": {
         "en": "Type of the relation.",
-        "nl": "Enter your translation here"
+        "nl": "Aard vd relatie."
       },
       "usage": {
         "en": "Is typically determined relative to the head of the family. For example, if the father is a head of the family and a family member is a son, then if the grandfather were the head of the household the same family member would be a grandson.",
-        "nl": "Enter your translation here"
+        "nl": "Wordt typisch bepaald tov het gezinshoofd. Bv als de vader gezinshoofd is en een gezinslid is zoon, dan zou als de grootvader gezinshoofd was datzelfde gezinslid kleinzoon zijn."
       }
     },
     {
@@ -368,11 +368,11 @@
       "name": "type",
       "label": {
         "en": "type",
-        "nl": "Enter your translation here"
+        "nl": "type"
       },
       "definition": {
         "en": "Type of civil status.",
-        "nl": "Enter your translation here"
+        "nl": "Aard vd burgerlijke staat."
       }
     },
     {
@@ -380,11 +380,11 @@
       "name": "residence address",
       "label": {
         "en": "residence address",
-        "nl": "Enter your translation here"
+        "nl": "verblijfsadres"
       },
       "definition": {
         "en": "Address of the place of residence.",
-        "nl": "Enter your translation here"
+        "nl": "Adres vd verblijfplaats."
       }
     },
     {
@@ -392,23 +392,23 @@
       "name": "registration",
       "label": {
         "en": "registration",
-        "nl": "Enter your translation here"
+        "nl": "registratie"
       },
       "definition": {
         "en": "Identification code of the person in the register.",
-        "nl": "Enter your translation here"
+        "nl": "Identificatiecode vd persoon ih register."
       }
     },
     {
       "EA-Guid": "{138482A9-7C19-4b26-A1FB-B66958CB5C6F}",
       "name": "place",
       "label": {
-        "en": "place",
+        "en": "plaats",
         "nl": "Enter your translation here"
       },
       "definition": {
         "en": "Place in the country where the event took place.",
-        "nl": "Enter your translation here"
+        "nl": "Plaats in het land waar de gebeurtenis plaatsvond."
       }
     },
     {
@@ -416,11 +416,11 @@
       "name": "nationality",
       "label": {
         "en": "nationality",
-        "nl": "Enter your translation here"
+        "nl": "nationaliteit"
       },
       "definition": {
         "en": "The nationality of the person.",
-        "nl": "Enter your translation here"
+        "nl": "De nationaliteit vd persoon."
       }
     },
     {
@@ -428,11 +428,11 @@
       "name": "member of",
       "label": {
         "en": "member of",
-        "nl": "Enter your translation here"
+        "nl": "is lid van"
       },
       "definition": {
         "en": "Household that a person is member of.",
-        "nl": "Enter your translation here"
+        "nl": "Gezin waartoe een persoon behoort."
       }
     },
     {
@@ -440,11 +440,11 @@
       "name": "householder",
       "label": {
         "en": "householder",
-        "nl": "Enter your translation here"
+        "nl": "gezinshoofd"
       },
       "definition": {
         "en": "Designated head of the household.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon die standaard het gezin vertegenwoordigt."
       }
     },
     {
@@ -452,11 +452,11 @@
       "name": "household member",
       "label": {
         "en": "household member",
-        "nl": "Enter your translation here"
+        "nl": "gezinslid"
       },
       "definition": {
         "en": "Member of the household.",
-        "nl": "Enter your translation here"
+        "nl": "Lid vh gezin."
       }
     },
     {
@@ -464,15 +464,15 @@
       "name": "household address",
       "label": {
         "en": "household address",
-        "nl": "Enter your translation here"
+        "nl": "gezinsadres"
       },
       "definition": {
         "en": "Address of the residence of the household.",
-        "nl": "Enter your translation here"
+        "nl": "Adres vd verblijfplaats vh gezin."
       },
       "usage": {
         "en": "Often a criterion to determine whether persons are part of the same household.",
-        "nl": "Enter your translation here"
+        "nl": "Dikwijls een criterium om te bepalen of personen deel uitmaken van eenzelfde gezin."
       }
     },
     {
@@ -480,11 +480,11 @@
       "name": "has nationality",
       "label": {
         "en": "has nationality",
-        "nl": "Enter your translation here"
+        "nl": "heeft nationaliteit"
       },
       "definition": {
         "en": "Nationality of a person.",
-        "nl": "Enter your translation here"
+        "nl": "Natioinaliteit vd persoon."
       }
     },
     {
@@ -492,11 +492,11 @@
       "name": "head of",
       "label": {
         "en": "head of",
-        "nl": "Enter your translation here"
+        "nl": "is hoofd van"
       },
       "definition": {
-        "en": "Person who usually represents the household.",
-        "nl": "Enter your translation here"
+        "en": "Household where the person is the head of.",
+        "nl": "Gezin waarvan de persoon het hoofd is."
       }
     },
     {
@@ -504,11 +504,11 @@
       "name": "has residence",
       "label": {
         "en": "has residence",
-        "nl": "Enter your translation here"
+        "nl": "heeft verblijfplaats"
       },
       "definition": {
         "en": "Place where the person resides.",
-        "nl": "Enter your translation here"
+        "nl": "Plaats waar een persoon verblijft."
       }
     },
     {
@@ -516,11 +516,11 @@
       "name": "has relation with",
       "label": {
         "en": "has relation with",
-        "nl": "Enter your translation here"
+        "nl": "heeft relatie met"
       },
       "definition": {
         "en": "Other person with which the person is related.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon waarmee de persoon gerelateerd is."
       }
     },
     {
