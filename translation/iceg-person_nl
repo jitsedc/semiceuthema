@@ -6,11 +6,11 @@
       "name": "Birth",
       "label": {
         "en": "Birth",
-        "nl": "Enter your translation here"
+        "nl": "Geboorte"
       },
       "definition": {
         "en": "The person being born.",
-        "nl": "Enter your translation here"
+        "nl": "Het ter wereld komen vd persoon."
       }
     },
     {
@@ -30,11 +30,11 @@
       "name": "Citizenship",
       "label": {
         "en": "Citizenship",
-        "nl": "Enter your translation here"
+        "nl": "Staatsburger"
       },
       "definition": {
         "en": "Legal connection of a Person with a state, with which certain rights and obligations are attached.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon die juridisch verbonden is met een staat."
       },
       "usage": {
         "en": "Usually derives from the Nationality of the Person. The rights and obligations in question are civil rights (eg freedom of religion) or of a political (eg right to vote) or social nature (eg right to benefits).",
