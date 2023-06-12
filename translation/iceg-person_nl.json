@@ -604,7 +604,7 @@
       },
       "definition": {
         "en": "Type of descent.",
-        "nl": "aard vd afstamming."
+        "nl": "Aard vd afstamming."
       },
       "usage": {
         "en": "E.g. adopted, child from marriage, recognized by the father, etc.",
@@ -652,7 +652,7 @@
       "name": "alternative name",
       "label": {
         "en": "alternative name",
-        "nl": "Enter your translation here"
+        "nl": "alternatieve naam"
       },
       "definition": {
         "en": "Alternative name of the person.",
