@@ -215,10 +215,10 @@
     },
     {
       "EA-Guid": "{D3A66E70-D816-4637-95A5-14D7B52E56DB}",
-      "name": "GN resident",
+      "name": "Non resident",
       "label": {
         "en": "Non resident",
-        "nl": "geen inwoner"
+        "nl": "Geen inwoner"
       },
       "definition": {
         "en": "Person not residing in a certain place or country.",
