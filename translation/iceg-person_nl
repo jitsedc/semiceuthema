@@ -22,7 +22,7 @@
       },
       "definition": {
         "en": "Person legally associated with a state.",
-        "nl": "Enter your translation here"
+        "nl": "Persoon die juridisch verbonden is met een staat."
       }
     },
     {
@@ -30,15 +30,15 @@
       "name": "Citizenship",
       "label": {
         "en": "Citizenship",
-        "nl": "Staatsburger"
+        "nl": "Staatsburgershap"
       },
       "definition": {
         "en": "Legal connection of a Person with a state, with which certain rights and obligations are attached.",
-        "nl": "Persoon die juridisch verbonden is met een staat."
+        "nl": "Juridische band ve persoon met een staat, waaraan bepaalde rechten en plichten verbonden zijn."
       },
       "usage": {
         "en": "Usually derives from the Nationality of the Person. The rights and obligations in question are civil rights (eg freedom of religion) or of a political (eg right to vote) or social nature (eg right to benefits).",
-        "nl": "Enter your translation here"
+        "nl": "Vloeit meestal voort uit de nationaliteit ve persoon. De rechten en plichten waarvan sprake zijn burgerrechten (vb godsdienstvrijheid) of van politieke (vb stemrecht) of sociale aard (bv recht op een uitkering)."
       }
     },
     {
@@ -46,11 +46,15 @@
       "name": "Civil State",
       "label": {
         "en": "Civil State",
-        "nl": "Enter your translation here"
+        "nl": "Burgerlijke Staat"
       },
       "definition": {
         "en": "Status of a person according to civil law.",
-        "nl": "Enter your translation here"
+        "nl": "Burgerrechtelijke toestand van een persoon."
+      },
+      "usage": {
+        "en": "Refers to marriage, partner registration, parentage, guardianship, etc. In other words, it is the state of certain relationships between persons.",
+        "nl": "Slaat op huwelijk, partnerregistratie, afstamming, voogdij etc. Is maw de toestand van bepaalde verhoudingen tussen personen."
       }
     },
     {
@@ -61,9 +65,13 @@
         "nl": "Enter your translation here"
       },
       "definition": {
-        "en": "Arrangement whereby two people who are not married live together. Can, just like a marriage, form the basis of a household. Can be legally registered.",
-        "nl": "Enter your translation here"
-      }
+        "en": "Arrangement whereby two people who are not married live together.",
+        "nl": "Samenwonen"
+      },
+      "usage": {
+        "en": "Can, just like a marriage, form the basis of a household. Can be legally registered.",
+        "nl": "Kan, net als bv een huwelijk, de basis vormen van een gezin."
+      }      
     },
     {
       "EA-Guid": "{8762DAE0-F5E0-4016-A694-2CFBB90BF82B}",
