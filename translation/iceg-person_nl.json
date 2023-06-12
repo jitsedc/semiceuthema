@@ -528,11 +528,11 @@
       "name": "has decease",
       "label": {
         "en": "has decease",
-        "nl": "Enter your translation here"
+        "nl": "heeft overlijden"
       },
       "definition": {
         "en": "Decease data of a person.",
-        "nl": "Enter your translation here"
+        "nl": "Overlijdensgegevens vd persoon."
       }
     },
     {
@@ -540,11 +540,11 @@
       "name": "has civil state",
       "label": {
         "en": "has civil state",
-        "nl": "Enter your translation here"
+        "nl": "heeft burgerlijke staat"
       },
       "definition": {
         "en": "Civil status of the person.",
-        "nl": "Enter your translation here"
+        "nl": "Burgerlijke staat vd persoon."
       }
     },
     {
@@ -552,11 +552,11 @@
       "name": "has birth",
       "label": {
         "en": "has birth",
-        "nl": "Enter your translation here"
+        "nl": "heeft geboorte"
       },
       "definition": {
         "en": "Birth data of a person.",
-        "nl": "Enter your translation here"
+        "nl": "De geboortegegevens vd persoon."
       }
     },
     {
@@ -568,7 +568,7 @@
       },
       "definition": {
         "en": "The administrative gender of the person.",
-        "nl": "Enter your translation here"
+        "nl": "Het administratief geslacht ve persoon."
       }
     },
     {
@@ -576,11 +576,11 @@
       "name": "full name",
       "label": {
         "en": "full name",
-        "nl": "Enter your translation here"
+        "nl": "volledige naam"
       },
       "definition": {
         "en": "The full name of the person, usually the combination of given names and family name.",
-        "nl": "Enter your translation here"
+        "nl": "De volledige naam vd persoon, doorgaans de combinatie van voornamen en achternaam."
       }
     },
     {
@@ -588,11 +588,11 @@
       "name": "first given name",
       "label": {
         "en": "first given name",
-        "nl": "Enter your translation here"
+        "nl": "gebruikte voornaam"
       },
       "definition": {
         "en": "Most important of the given names of the person (aka first name).",
-        "nl": "Enter your translation here"
+        "nl": "Belangrijkste vd voornamen ve persoon."
       }
     },
     {
@@ -600,11 +600,15 @@
       "name": "descent type",
       "label": {
         "en": "descent type",
-        "nl": "Enter your translation here"
+        "nl": "afstammingstype"
       },
       "definition": {
         "en": "Type of descent.",
-        "nl": "Enter your translation here"
+        "nl": "aard vd afstamming."
+      },
+      "usage": {
+        "en": "E.g. adopted, child from marriage, recognized by the father, etc.",
+        "nl": "Bv geadopteerd, kind uit huwelijk, erkend door de vader etc."
       }
     },
     {
@@ -612,11 +616,11 @@
       "name": "date of descent",
       "label": {
         "en": "date of descent",
-        "nl": "Enter your translation here"
+        "nl": "datum van afstamming"
       },
       "definition": {
-        "en": "The date on which yhe descent is registered.",
-        "nl": "Enter your translation here"
+        "en": "The date on which the descent is registered.",
+        "nl": "De datum waarop de afstamming wordt vastgesteld."
       }
     },
     {
@@ -624,11 +628,11 @@
       "name": "date",
       "label": {
         "en": "date",
-        "nl": "Enter your translation here"
+        "nl": "datum"
       },
       "definition": {
         "en": "Date the event took place.",
-        "nl": "Enter your translation here"
+        "nl": "Datum waarop de gebeurtenis plaatsvond."
       }
     },
     {
@@ -636,11 +640,11 @@
       "name": "country",
       "label": {
         "en": "country",
-        "nl": "Enter your translation here"
+        "nl": "land"
       },
       "definition": {
         "en": "Country where the event took place.",
-        "nl": "Enter your translation here"
+        "nl": "Land waar de gebeurtenis plaatsvond."
       }
     },
     {
@@ -651,8 +655,8 @@
         "nl": "Enter your translation here"
       },
       "definition": {
-        "en": "Alternative name of the Person.",
-        "nl": "Enter your translation here"
+        "en": "Alternative name of the person.",
+        "nl": "Alternatief voor de naam van de persoon."
       }
     },
     {
