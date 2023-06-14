@@ -1,0 +1,43 @@
+[
+{
+  "name": "iceg-hydrants",
+  "type": "ap",
+  "eap": "ICEG-Hydrants-AP.eap",
+  "diagram": "ICEG-Building_AP",
+  "template": "iceg-hydrants_en.j2",
+  "title": "Hydrants",
+  "publication-state": "Public Review",
+  "publication-date": "2023-01-20",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "ICEG-Hydrants",
+  "site": "site-skeleton/iceg-hydrants",
+  "repourl": "https://github.com/belgif/thematic/tree/master/",
+  "versionurl": "https://belgif.github.io/thematic/models/hydrants",
+  "feedbackurl": "https://github.com/belgif/thematic/issues",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"iceg-hydrants_en.j2",
+        "title": "Hydrants",
+        "translationjson":"iceg-hydrants_en.json",
+        "mergefile":"iceg-hydrants_en_merged.jsonld"
+      },
+      {
+        "language":"de",
+        "template":"iceg-hydrants_de.j2",
+        "title": "Hydrants",
+        "translationjson":"iceg-hydrants_de.json",
+        "mergefile":"iceg-hydrants_de_merged.jsonld"
+      },
+      {
+        "language":"nl",
+        "template":"iceg-hydrants_nl.j2",
+        "title": "Hydrants",
+        "translationjson":"iceg-hydrants_nl.json",
+        "mergefile":"iceg-hydrants_nl_merged.jsonld"
+      }
+    ]
+}
+]
