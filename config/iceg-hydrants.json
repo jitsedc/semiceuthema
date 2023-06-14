@@ -3,7 +3,7 @@
   "name": "iceg-hydrants",
   "type": "ap",
   "eap": "ICEG-Hydrants-AP.eap",
-  "diagram": "ICEG-Building_AP",
+  "diagram": "ICEG-Hydrants-AP",
   "template": "iceg-hydrants_en.j2",
   "title": "Hydrants",
   "publication-state": "Public Review",
