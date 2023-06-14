@@ -15,15 +15,6 @@
   "repourl": "https://github.com/belgif/thematic/tree/master/",
   "versionurl": "https://belgif.github.io/thematic/models/hydrants",
   "feedbackurl": "https://github.com/belgif/thematic/issues",
-  "standaardregisterurl": "TODO",
-    "translation": [
-      {
-        "language":"en",
-        "template":"iceg-hydrants_en.j2",
-        "title": "Hydrants",
-        "translationjson":"iceg-hydrants_en.json",
-        "mergefile":"iceg-hydrants_en_merged.jsonld"
-      }
-    ]
+  "standaardregisterurl": "TODO"
 }
 ]
