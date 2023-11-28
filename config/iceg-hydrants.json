@@ -2,11 +2,11 @@
 {
   "name": "iceg-hydrants",
   "type": "ap",
-  "eap": "ICEG-Hydrants-AP.eap",
+  "eap": "ICEG-Hydrants-AP-v07.eap",
   "diagram": "ICEG-Hydrants-AP",
   "template": "iceg-hydrants_en.j2",
   "title": "Hydrants",
-  "publication-state": "under public review",
+  "publication-state": "Under public review",
   "publication-date": "2023-07-03",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
